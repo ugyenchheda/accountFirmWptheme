@@ -1,0 +1,6 @@
+bootstrap				http://getbootstrap.com/getting-started/#download
+bootstrap-widget-styling-master		https://github.com/kienstra/bootstrap-widget-styling
+font-awesome				http://fortawesome.github.io/Font-Awesome/
+gallery					https://blueimp.github.io/Gallery/
+wp-bootstrap-navwalker-master		https://github.com/twittem/wp-bootstrap-navwalker	
+jquery-rwdimagemaps-master		https://github.com/kienstra/bootstrap-widget-styling
