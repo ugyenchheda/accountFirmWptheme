@@ -249,7 +249,7 @@ span.acctitle {
     box-shadow: 0 0px 0px rgba(0,0,0,.05);
 }
 .parallax {
-    background-image: url("http://uniwebus.com/abcaccountingfirm/wp-content/uploads/2017/08/parallaxbg-1.jpg");
+    background-image: url(./wp-content/uploads/2017/08/parallaxbg-1.jpg");
     min-height: 400px; 
     background-attachment: fixed;
     background-position: center;
@@ -316,7 +316,7 @@ p.abtTxt {
 }
 .firstBlock {
     padding: 35px 10px;
-    background: url(http://uniwebus.com/abcaccountingfirm/wp-content/uploads/2017/08/firstblockbg.png) repeat;
+    background: url(./wp-content/uploads/2017/08/firstblockbg.png) repeat;
 }
 .iconcontainer {
   margin-top: 20px;
